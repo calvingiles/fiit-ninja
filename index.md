@@ -1,6 +1,6 @@
 # HIIT, strength training, yoga & more in one simple app
 
-learn more at [fiit.tv](fiit.tv)
+learn more at [https://fiit.tv](fiit.tv)
 
 Get a free month of Premium with code **GETFIIT02** (from £10 a month)
 
